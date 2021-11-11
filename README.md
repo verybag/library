@@ -4,7 +4,7 @@ This library app uses **HTML**, **CSS**, and **VANILLA JAVASCRIPT**.
 
 Data is stored in **LOCALSTORAGE**
 
-**Demo**[here](https://verybag.github.io/library/).
+**Demo** [here](https://verybag.github.io/library/).
 
 ## Overview
 
